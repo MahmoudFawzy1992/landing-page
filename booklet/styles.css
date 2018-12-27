@@ -1,0 +1,6 @@
+.positioning_btn {
+  position: relative;
+  z-index: 2;
+  bottom: 70vw;
+  right: 18%;
+}
