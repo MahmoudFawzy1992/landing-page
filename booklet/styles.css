@@ -1,6 +1,10 @@
 .positioning_btn {
   position: relative;
   z-index: 2;
-  bottom: 70vw;
+  bottom: 50vw;
   right: 18%;
 }
+@media only screen and (max-width: 767px) {
+  .positioning_btn {
+    bottom: 45vw;
+  }}
